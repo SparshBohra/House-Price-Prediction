@@ -1,2 +1,2 @@
 # House-Price-Prediction
-Predicting prices of houses using regression
+Predicting prices of houses using regression.
